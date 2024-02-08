@@ -1,0 +1,5 @@
+[user]
+	email = bart@westenenk.me
+	name = Bart Westenenk
+[push]
+	autoSetupRemote = true
